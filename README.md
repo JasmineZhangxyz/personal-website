@@ -2,10 +2,8 @@
 
 ### Development start-up
 
-    ```shell
     cd <directory>/
     npm run develop
-    ```
 
 Site now runs at http://localhost:8000
 
